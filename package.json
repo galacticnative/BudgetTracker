@@ -1,0 +1,26 @@
+{
+  "name": "BudgetTrackerPWA",
+  "version": "1.0.0",
+  "description": "## Description View a Budget Tracker that has been updated to allow offline access and functionality. Users can add expenses and deposits to their budget with or without an internet connection. If entering transactions while offline, once connected, the budget tracker should automatically be updated. This app is a Progressive Web Application (PWA).",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galacticnative/BudgetTracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galacticnative/BudgetTracker/issues"
+  },
+  "homepage": "https://github.com/galacticnative/BudgetTracker#readme"
+}
