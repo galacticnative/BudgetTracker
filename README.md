@@ -10,20 +10,17 @@ View a Budget Tracker that has been updated to allow offline access and function
 * [License](#license)
 
 ## Installation 
-npm i mongoose
-npm i express
-npm init -y
-npm i logger
-npm install --save-dev webpack
-npm install --save-dev webpack-cli
-npm i -D webpack webpack-cli
-npm install -D webpack-bundle-analyzer
-npm i webpack-dev-server -D
+Install the package.json dependencies by typing "npm install" in your terminal. This is after you clone the GitHub repo, and want to test the app in the localhost environment. If so, type "node server" to start the server and go to http://localhost:3001 in your browser to test the app. 
+
 
 
 ## Usage 
+Please visit the following deployed live webpage hosted by Heroku:
+
+https://git.heroku.com/cryptic-castle-22808
 
 
+![picture](budgetpwa.png)
     
 ## Credits 
 UofA Coding Bootcamp starter code.
