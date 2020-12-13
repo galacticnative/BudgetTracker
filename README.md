@@ -17,7 +17,7 @@ Install the package.json dependencies by typing "npm install" in your terminal. 
 ## Usage 
 Please visit the following deployed live webpage hosted by Heroku:
 
-https://git.heroku.com/cryptic-castle-22808
+https://cryptic-castle-22808.herokuapp.com/
 
 
 ![picture](budgetpwa.png)
