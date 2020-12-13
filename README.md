@@ -14,6 +14,12 @@ npm i mongoose
 npm i express
 npm init -y
 npm i logger
+npm install --save-dev webpack
+npm install --save-dev webpack-cli
+npm i -D webpack webpack-cli
+npm install -D webpack-bundle-analyzer
+npm i webpack-dev-server -D
+
 
 ## Usage 
 

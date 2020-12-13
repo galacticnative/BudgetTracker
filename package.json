@@ -14,13 +14,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/galacticnative/BudgetTracker.git"
+    "url": "git+https://github.com/galacticnative/BudgetTrackerPWA.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/galacticnative/BudgetTracker/issues"
+    "url": "https://github.com/galacticnative/BudgetTrackerPWA/issues"
   },
-  "homepage": "https://github.com/galacticnative/BudgetTracker#readme"
+  "homepage": "https://github.com/galacticnative/BudgetTrackerPWA#readme"
 }
